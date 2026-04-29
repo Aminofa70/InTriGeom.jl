@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.UD5pvc2y.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"demo_0001.md","filePath":"demo_0001.md","lastUpdated":null}'),o={name:"demo_0001.md"};function r(s,d,n,c,_,m){return t(),a("div")}const l=e(o,[["render",r]]);export{i as __pageData,l as default};
