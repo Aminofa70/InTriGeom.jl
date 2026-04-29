@@ -56,10 +56,14 @@ E-mail: johannes.korsawe@volkswagen.de
 Release: 1.3
 Release date: 25/09/2013
 
-# heavytest = 0  → 1 test,  fast,  rare chance of -1 results
-# heavytest = 1  → 2 tests, slower, very rare -1 results  
-# heavytest = 3  → 4 tests, slowest, almost no -1 results
+heavytest = 0  → 1 test,  fast,  rare chance of -1 results
+
+heavytest = 1  → 2 tests, slower, very rare -1 results  
+
+heavytest = 3  → 4 tests, slowest, almost no -1 results
 
 
-[intriangulation](https://es.mathworks.com/matlabcentral/fileexchange/43381-intriangulation-vertices-faces-testp-heavytest?s_tid=prof_contriblnk)
-[Mesh voxelisation](https://es.mathworks.com/matlabcentral/fileexchange/27390-mesh-voxelisation)
+## References
+
+- [Johannes Korsawe (2026). intriangulation(vertices,faces,testp,heavytest) (https://es.mathworks.com/matlabcentral/fileexchange/43381-intriangulation-vertices-faces-testp-heavytest), MATLAB Central File Exchange. Recuperado 29 abril, 2026.](https://es.mathworks.com/matlabcentral/fileexchange/43381-intriangulation-vertices-faces-testp-heavytest?s_tid=prof_contriblnk)
+- [Mesh voxelisation](https://es.mathworks.com/matlabcentral/fileexchange/27390-mesh-voxelisation)
