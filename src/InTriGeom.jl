@@ -1,5 +1,9 @@
 module InTriGeom
 
-# Write your package code here.
+
+export rotmatrix
+export VOXELISEinternal
+export intriangulation
+include("utils.jl")
 
 end
