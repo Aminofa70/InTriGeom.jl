@@ -31,5 +31,10 @@ Author: Johannes Korsawe, heavily based on voxelise from Adam A.
 E-mail: johannes.korsawe@volkswagen.de
 Release: 1.3
 Release date: 25/09/2013
+
+# heavytest = 0  → 1 test,  fast,  rare chance of -1 results
+# heavytest = 1  → 2 tests, slower, very rare -1 results  
+# heavytest = 3  → 4 tests, slowest, almost no -1 results
+
 """
 
